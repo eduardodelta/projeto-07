@@ -1,0 +1,19 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html , body{
+    background-color: rgb(66, 66, 223);
+    height: 100vh;
+    width: 100vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+p{
+    text-align: center;
+    font-size:30px ;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 5px blue
+}
