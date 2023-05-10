@@ -6,9 +6,10 @@
     }
     menu{
         display: block;
+        text-align: center;
     }
     menu > ul > li {
         display: inline-block;
     }
-    
+
 }
